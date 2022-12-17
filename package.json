@@ -1,0 +1,18 @@
+{
+	"name": "discord-openai-chatbot",
+	"author": "jahhweh",
+	"version": "1.0.0",
+	"license": "ISC",
+	"description": "gpt3, davinci3",
+	"main": "main.js",
+	"scripts": {
+		"start": "node main.js"
+	},
+	"prefix": "!",
+  	"dependencies": {
+    	"discord.js": "^13.6.0",
+   		 "dotenv": "^16.0.3",
+   		 "node": "^17.7.2",
+   		 "openai": "^3.1.0"
+ 	}
+}
