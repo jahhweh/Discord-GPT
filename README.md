@@ -10,6 +10,7 @@ Click on your profile picture and select View API Keys <br>
 Go to Discord Developers Portal and create an account or sign in <br>
 Click on Applications, New Application, and name your app <br>
 Click on Bot, Add Bot, and name your Bot <br>
+Click Reset Token to get your Bot Token <br>
 Turn on all Privileged Gateway Intents <br>
 Under Bot Permissions, select Administrator <br>
 Go to OAuth2, URL Generator, and select Bot, then select Administrator <br>
