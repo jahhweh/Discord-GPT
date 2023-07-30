@@ -1,7 +1,12 @@
-# OpenAI Chatbot for Discord
+# Super Simple OpenAI Chatbot for Discord
 - javascript
 - node
-## LFG
+- currently using model gpt-3.5-turbo
+## Quick Start
+- edit .env
+- `npm install` then `npm run start`
+
+## Step-By-Step
 - edit the .env file and input your openAI API key <br>
 To find your API key, go to OpenAI website and click on API <br>
 Then create an account or sign in <br>

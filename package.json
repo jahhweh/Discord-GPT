@@ -1,9 +1,9 @@
 {
 	"name": "discord-openai-chatbot",
 	"author": "jahhweh",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"license": "ISC",
-	"description": "gpt3, davinci3",
+	"description": "openai chatbot",
 	"main": "main.js",
 	"scripts": {
 		"start": "node main.js"
