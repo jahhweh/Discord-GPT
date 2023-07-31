@@ -1,4 +1,5 @@
-# Super Simple OpenAI Chatbot for Discord
+# 🤖💬 Discord-GPT
+## Super Simple OpenAI Chatbot for Discord
 - javascript
 - node
 - currently using model gpt-3.5-turbo
