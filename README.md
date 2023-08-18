@@ -26,7 +26,7 @@
     - Turn on all Privileged Gateway Intents
     - Under Bot Permissions, select Administrator
     - Go to OAuth2, URL Generator, select Bot, then select Administrator
-    - Copy and paste the generated URL into the discord server you want your bot to be in abd your bot will join the server and talk to you!
+    - Copy and paste the generated URL into the discord server you want your bot to be in and your bot will join the server and talk to you!
 
 ## Begin Customizing
 
