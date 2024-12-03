@@ -1,3 +1,5 @@
+This repository has been archived and will no longer be developed. The code may no longer work. Please use a different resource.
+
 # 🤖💬 Discord-GPT 🤣🤯
 
 ## An OpenAI Chat-GPT Discord Bot Template
